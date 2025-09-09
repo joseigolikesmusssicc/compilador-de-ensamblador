@@ -1,2 +1,2 @@
 # compilador-de-ensamblador
-e
+puro pinche llava y shatyepet
