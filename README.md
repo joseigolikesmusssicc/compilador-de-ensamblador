@@ -1,2 +1,2 @@
 # compilador-de-ensamblador
-puro pinche llava y shatyepet
+puro pinche pirg, llava y shatyepet
